@@ -1,0 +1,11 @@
+C:\Users\LOSG\source\repos\Teste_4_allQuestions_Csharp\Teste_4_allQuestions_Csharp\bin\Debug\netcoreapp3.1\Teste_4_allQuestions_Csharp.exe
+C:\Users\LOSG\source\repos\Teste_4_allQuestions_Csharp\Teste_4_allQuestions_Csharp\bin\Debug\netcoreapp3.1\Teste_4_allQuestions_Csharp.deps.json
+C:\Users\LOSG\source\repos\Teste_4_allQuestions_Csharp\Teste_4_allQuestions_Csharp\bin\Debug\netcoreapp3.1\Teste_4_allQuestions_Csharp.runtimeconfig.json
+C:\Users\LOSG\source\repos\Teste_4_allQuestions_Csharp\Teste_4_allQuestions_Csharp\bin\Debug\netcoreapp3.1\Teste_4_allQuestions_Csharp.runtimeconfig.dev.json
+C:\Users\LOSG\source\repos\Teste_4_allQuestions_Csharp\Teste_4_allQuestions_Csharp\bin\Debug\netcoreapp3.1\Teste_4_allQuestions_Csharp.dll
+C:\Users\LOSG\source\repos\Teste_4_allQuestions_Csharp\Teste_4_allQuestions_Csharp\bin\Debug\netcoreapp3.1\Teste_4_allQuestions_Csharp.pdb
+C:\Users\LOSG\source\repos\Teste_4_allQuestions_Csharp\Teste_4_allQuestions_Csharp\obj\Debug\netcoreapp3.1\Teste_4_allQuestions_Csharp.csprojAssemblyReference.cache
+C:\Users\LOSG\source\repos\Teste_4_allQuestions_Csharp\Teste_4_allQuestions_Csharp\obj\Debug\netcoreapp3.1\Teste_4_allQuestions_Csharp.AssemblyInfoInputs.cache
+C:\Users\LOSG\source\repos\Teste_4_allQuestions_Csharp\Teste_4_allQuestions_Csharp\obj\Debug\netcoreapp3.1\Teste_4_allQuestions_Csharp.AssemblyInfo.cs
+C:\Users\LOSG\source\repos\Teste_4_allQuestions_Csharp\Teste_4_allQuestions_Csharp\obj\Debug\netcoreapp3.1\Teste_4_allQuestions_Csharp.dll
+C:\Users\LOSG\source\repos\Teste_4_allQuestions_Csharp\Teste_4_allQuestions_Csharp\obj\Debug\netcoreapp3.1\Teste_4_allQuestions_Csharp.pdb
