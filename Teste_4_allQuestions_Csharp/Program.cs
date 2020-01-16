@@ -41,8 +41,8 @@ namespace Teste_4_allQuestions_Csharp
             //-------------------------- QUESTÃO 4 --------------------------
             Console.WriteLine("_____________________________________________________");
             Gerente gerente = new Gerente("Yasuo",28,10000.0,10000.0);
-            Supervisor supervisor = new Supervisor("Viktor",25,10000.0,5000.0);
-            Vendedor vendedor = new Vendedor("Ashe",22,10000.0,3000.0);
+            Supervisor supervisor = new Supervisor("Viktor",25,10000.0);
+            Vendedor vendedor = new Vendedor("Ashe",22,10000.0);
 
             Console.WriteLine("O "+gerente.Nome+" é gerente com salário de R${0:0.00}",gerente.Bonificacao());
             Console.WriteLine("O " + supervisor.Nome + " é supervisor com salário de R${0:0.00}", supervisor.Bonificacao());
